@@ -27,7 +27,7 @@ Test seti: 4.806 örnek (eğitim verisi: 48.060 Türkçe haber başlığı, deng
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/kullanıcı-adın/turkish-clickbait-detection.git
+git clone https://github.com/SelenayTanrikulu/turkish-clickbait-detection.git
 cd turkish-clickbait-detection
 
 # 2. Sanal ortam oluştur (önerilen)
